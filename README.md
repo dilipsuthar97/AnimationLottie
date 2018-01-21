@@ -15,8 +15,9 @@ This code consist a simple loading animation in the App use loading.json file in
         app:lottie_fileName="loading.json"
         app:lottie_loop="true"/>
 ```
-        
-# Use this library Lottie dependency to your build.gradle(Module:app) file
+#Library 
+
+Use this library Lottie dependency to your build.gradle(Module:app) file
 
 ```
 dependencies {
