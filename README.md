@@ -6,7 +6,9 @@ This code consist a simple loading animation in the App
 use loading.json file into the assets folder for do this
 
 <com.airbnb.lottie.LottieAnimationView
+
 android:id="@+id/animation_view"
+
 android:layout_width="match_parent"
 android:layout_height="match_parent"
 android:layout_gravity="center"a
